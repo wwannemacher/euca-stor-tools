@@ -29,4 +29,4 @@ class StorageTools(object):
         return OperationSet(parsed)
 
 if __name__ == '__main__':
-    StorageTools.run()
+    StorageTools().run()
